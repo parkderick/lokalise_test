@@ -1,7 +1,11 @@
 {
-  "HEADER": "HELLO MY NAME IS DERICK",
-  "OCCUPATION": "I AM A FE ENGINEER",
-  "SUBHEADER": "THIS IS A TEST FILE FOR LOKALISE",
-  "SubHeader2": "This is my subheader two testing.",
-  "Question.2": "Is this a question or an answer?"
+  "DefaultView.Heading.title": "Own the passion",
+  "DefaultView.Heading.description": "Don’t miss out on the opportunity to own the most epic, talked-about soccer moments in the history of laLiga.",
+  "DefaultView.Heading.poweredBy": "Powered by",
+  "DefaultView.Hero.description": "LaLiga Golazos is a whole new way to connect with your favorite team and players by collecting next-level digital video NFTs of epic highlights from the biggest games.",
+
+  "AuthenticatedView.Heading.title": "Congrats, you’re on the waitlist",
+  "AuthenticatedView.Heading.description": "Top X% will receive access to closed beta Top Y % of the X will also receive an airdrop moment/some other incentive",
+  
+  "Button.Waitlist": "Join Waitlist"
 }
