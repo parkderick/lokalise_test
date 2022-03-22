@@ -1,11 +1,21 @@
 {
-  "DefaultView.Heading.title": "Own the passion",
-  "DefaultView.Heading.description": "Don’t miss out on the opportunity to own the most epic, talked-about soccer moments in the history of laLiga.",
+  "DefaultView.Heading.title": "Own the Passion",
+  "DefaultView.Heading.description": "With LaLiga Golazos, own limited edition NFTs of the best Moments in LaLiga history.",
   "DefaultView.Heading.poweredBy": "Powered by",
-  "DefaultView.Hero.description": "LaLiga Golazos is a whole new way to connect with your favorite team and players by collecting next-level digital video NFTs of epic highlights from the biggest games.",
-
+  "DefaultView.Banner1.title": "LaLiga Golazos is a new way to engage with the beautiful game. Collect video NFTs of the best Moments in LaLiga history, featuring your favorite teams and players.",
+  "DefaultView.Banner2.title": "Don’t miss out!",
+  "DefaultView.Feature1.title": "Unrivaled Access",
+  "DefaultView.Feature1.description": "Your LaLiga Golazos collection doubles a rewards program, unlocking some of the most epic experiences Football can offer.",
+  "DefaultView.Feature2.title": "Past & Present Legends of LaLiga",
+  "DefaultView.Feature2.description": "Collect Moments of icons from LaLiga's rich history, to new stars looking to build their legacy.",
+  "DefaultView.Feature3.title": "Limited Edition Video Collectibles",
+  "DefaultView.Feature3.description": "Each Moment on LaLiga Golazos has a edition size, indicating how rare that Moment is, with the most iconic moments being the scarcest and most sought after.",
+  "DefaultView.Feature4.title": "Online Global Marketplace",
+  "DefaultView.Feature4.description": "As you build your collection, buy sell and trade Moments with other community members in a 24/7 online marketplace.",
   "AuthenticatedView.Heading.title": "Congrats, you’re on the waitlist",
-  "AuthenticatedView.Heading.description": "Top X% will receive access to closed beta Top Y % of the X will also receive an airdrop moment/some other incentive",
-  
+  "AuthenticatedView.Heading.topXX.title": "Top XX",
+  "AuthenticatedView.Heading.topXX.description": "will receive access to our closed beta.",
+  "AuthenticatedView.Heading.topYY.title": "Top YY",
+  "AuthenticatedView.Heading.topYY.description": "will also receive an airdrop moment/some other incentive.",
   "Button.Waitlist": "Join Waitlist"
 }
