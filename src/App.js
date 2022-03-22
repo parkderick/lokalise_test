@@ -1,7 +1,15 @@
 import logo from './logo.svg';
 import './App.css';
+import i18n from './i18n'
+import { useTranslation } from "react-i18next";
 
 function App() {
+  const { t } = useTranslation();
+
+  const handleClick = () => {
+    i18n.changeLanguage("es");
+  }
+
   return (
     <div className="App">
       <header className="App-header">
@@ -17,6 +25,7 @@ function App() {
         >
           Learn React
         </a>
+        <button onClick={handleClick}>ClickMe</button>
       </header>
     </div>
   );
