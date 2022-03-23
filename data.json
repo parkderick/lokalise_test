@@ -17,5 +17,13 @@
   "AuthenticatedView.Heading.topXX.description": "will receive access to our closed beta.",
   "AuthenticatedView.Heading.topYY.title": "Top YY",
   "AuthenticatedView.Heading.topYY.description": "will also receive an airdrop moment/some other incentive.",
+  "Footer.allRightsReserved": "All Rights Reserved.",
+  "Footer.officialLicensedProduct": "Officially licensed product of the National Basketball Players Association.",
+  "Footer.doNotSellPersonalInfo": "Do Not Sell My Personal Information.",
+  "Footer.siteProtected": "This site is protected by hCaptcha and its",
+  "Footer.privacyPolicy": "Privacy Policy",
+  "Footer.and": "and",
+  "Footer.termsOfService": "Terms of Service",
+  "Footer.apply": "apply.",
   "Button.Waitlist": "Join Waitlist"
 }
